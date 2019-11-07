@@ -1,0 +1,7 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/sagar.pansare/Documents/applications/flutter
+FLUTTER_APPLICATION_PATH=/Users/sagar.pansare/Documents/program/flutter-examples/hq_application/apps/flutter_modified_packages/flutter_firebase_login/example
+FLUTTER_TARGET=lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Users/sagar.pansare/Documents/applications/flutter/bin/cache/artifacts/engine/ios
